@@ -15,5 +15,7 @@ As she approached me, I thought, </br>
 ***Oh. You're approaching me?***</br>
 In a nervous,terrified way.</br>
 Obviously, I was beyond wrong. She was the opposite of strict - just like Ms Ng!</br>
-Haha</br>
+Haha foolish me!</br>
+To judge others so quickly
+As school ended, i looked forward to my future days in school
 The end</br>
