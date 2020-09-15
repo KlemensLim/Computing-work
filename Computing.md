@@ -63,7 +63,7 @@ while True:</br>
  
 **Number 4**</br>
 from microbit import *</br>
-display.show(Image.Tiger)</br>
+display.show(Image.TORTOISE)</br> #there is no image called tiger
 sleep(200)</br>
 display.clear</br>
 **Number 5**</br>
